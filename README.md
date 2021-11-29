@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitória</h1>
-- 🌱 I’m currently learning **Python and SQL**
+- 🌱 I’m currently learning ** Python and SQL **
 
 - 📫 How to reach me **vi.brito743@hotmail.com**
 
